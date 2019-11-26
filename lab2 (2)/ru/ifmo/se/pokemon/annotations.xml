@@ -1,0 +1,7 @@
+<root>
+    <item name='ru.ifmo.se.pokemon.Effect ru.ifmo.se.pokemon.Effect chance(double)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;_-&gt;this&quot;"/>
+        </annotation>
+    </item>
+</root>
