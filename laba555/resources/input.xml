@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection>
+    <people>
+        <birthday>2000-12-01T10:25:12</birthday>
+        <coordinates>
+            <x>12.0</x>
+            <y>13.0</y>
+        </coordinates>
+        <creationDate>2020-06-10T23:28:43.922+06:00[GMT+06:00]</creationDate>
+        <hairColor>GREEN</hairColor>
+        <height>12.0</height>
+        <id>1304847426</id>
+        <location>
+            <name>дискотека</name>
+            <x>12.0</x>
+            <y>2.0</y>
+            <z>23</z>
+        </location>
+        <name>Чувак</name>
+        <nationality>CHINA</nationality>
+    </people>
+</collection>
